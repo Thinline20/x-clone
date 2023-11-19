@@ -31,7 +31,6 @@ export default function Root() {
       <Body>
         <Suspense>
           <ErrorBoundary>
-            <nav class="container mx-auto">navbar</nav>
             <Routes>
               <FileRoutes />
             </Routes>

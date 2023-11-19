@@ -1,0 +1,10 @@
+// vite.config.ts
+import solid from "file:///F:/dev/web/projects/x-clone/node_modules/.pnpm/solid-start@0.3.10_@solidjs+meta@0.29.1_@solidjs+router@0.8.4_solid-js@1.8.5_solid-start-node@0.3.10_vite@4.5.0/node_modules/solid-start/vite/plugin.js";
+import { defineConfig } from "file:///F:/dev/web/projects/x-clone/node_modules/.pnpm/vite@4.5.0_@types+node@20.9.0/node_modules/vite/dist/node/index.js";
+var vite_config_default = defineConfig({
+  plugins: [solid()]
+});
+export {
+  vite_config_default as default
+};
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAic291cmNlcyI6IFsidml0ZS5jb25maWcudHMiXSwKICAic291cmNlc0NvbnRlbnQiOiBbImNvbnN0IF9fdml0ZV9pbmplY3RlZF9vcmlnaW5hbF9kaXJuYW1lID0gXCJGOlxcXFxkZXZcXFxcd2ViXFxcXHByb2plY3RzXFxcXHgtY2xvbmVcIjtjb25zdCBfX3ZpdGVfaW5qZWN0ZWRfb3JpZ2luYWxfZmlsZW5hbWUgPSBcIkY6XFxcXGRldlxcXFx3ZWJcXFxccHJvamVjdHNcXFxceC1jbG9uZVxcXFx2aXRlLmNvbmZpZy50c1wiO2NvbnN0IF9fdml0ZV9pbmplY3RlZF9vcmlnaW5hbF9pbXBvcnRfbWV0YV91cmwgPSBcImZpbGU6Ly8vRjovZGV2L3dlYi9wcm9qZWN0cy94LWNsb25lL3ZpdGUuY29uZmlnLnRzXCI7aW1wb3J0IHNvbGlkIGZyb20gXCJzb2xpZC1zdGFydC92aXRlXCI7XHJcbmltcG9ydCB7IGRlZmluZUNvbmZpZyB9IGZyb20gXCJ2aXRlXCI7XHJcblxyXG5leHBvcnQgZGVmYXVsdCBkZWZpbmVDb25maWcoe1xyXG4gIHBsdWdpbnM6IFtzb2xpZCgpXSxcclxufSk7XHJcbiJdLAogICJtYXBwaW5ncyI6ICI7QUFBNlEsT0FBTyxXQUFXO0FBQy9SLFNBQVMsb0JBQW9CO0FBRTdCLElBQU8sc0JBQVEsYUFBYTtBQUFBLEVBQzFCLFNBQVMsQ0FBQyxNQUFNLENBQUM7QUFDbkIsQ0FBQzsiLAogICJuYW1lcyI6IFtdCn0K
